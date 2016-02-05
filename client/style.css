@@ -1,0 +1,14 @@
+.content {
+    min-height: 597px;
+}
+.article-item{
+    opacity: 0;
+}
+.article-item .card-image img {
+    max-height: 400px;
+}
+.article-item .fixed-action-btn {
+    bottom: 3px;
+    right: 3px;
+    position: absolute;
+}
